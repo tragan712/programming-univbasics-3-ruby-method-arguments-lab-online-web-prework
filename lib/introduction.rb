@@ -1,11 +1,11 @@
 
 def introduction(name)  
   puts "Hi, my name is #{name}."
-name=
+name="Josh"
 end
 def introduction(name)  
   puts "Hi, my name is #{name}."
-
+name="Dan"
 end
 def introduction_with_language(name, language)
   puts "Hi, my name is #{name} and I am learning to program in #{language}."
